@@ -1,2 +1,2 @@
-# Javascript-with-Hitesh-Chudhary
+# Javascript-with-Hitesh-Chuodhary
 learning Purpose 
